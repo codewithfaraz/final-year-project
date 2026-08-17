@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "eslint": "^9.20.0",
-    "react-phone-input-2": "^2.15.1",
-    "react-select": "^5.10.0"
-  }
-}
